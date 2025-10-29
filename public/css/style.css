@@ -1,0 +1,84 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sidebar {
+    position: fixed;
+    top: 56px; /* Height of navbar */
+    bottom: 0;
+    left: 0;
+    z-index: 100;
+    padding: 48px 0 0;
+    box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
+}
+
+.sidebar .nav-link {
+    font-weight: 500;
+    color: #333;
+}
+.sidebar .nav-link.active {
+    color: #007bff;
+}
+
+.product-card {
+    cursor: pointer;
+    transition: transform 0.2s;
+    border: 1px solid #ddd;
+}
+.product-card:hover {
+    transform: scale(1.03);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.product-card img {
+    height: 150px;
+    width: 100%; /* Pastikan lebar penuh */
+    /* PERBAIKAN: Ganti 'cover' dengan 'fill' untuk stretch */
+    object-fit: fill; 
+}
+
+.view-content {
+    animation: fadeIn 0.3s;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+/* ... (kode CSS lainnya) ... */
+
+/* Aturan untuk mengatur gambar di dalam semua Bootstrap Tooltip */
+.tooltip img {
+    max-width: 200px !important;
+    max-height: 200px !important;
+}
+
+/* --- PERBAIKAN: Tambahkan scroll pada daftar produk --- */
+#productList {
+    /* 
+      Tinggi maksimum diatur untuk menampung sekitar 3 baris produk (3 produk/baris di layar besar).
+      Anda bisa menyesuaikan nilai ini sesuai kebutuhan.
+      Estimasi: 1 baris ~250px (card + margin). 3 baris ~750px.
+    */
+    max-height: 750px; 
+    overflow-y: auto; /* Aktifkan scroll vertikal jika konten melebihi tinggi maksimum */
+}
+
+/* Menambahkan sedikit styling agar scroll lebih terlihat dan halus di webkit browser (Chrome, Safari) */
+#productList::-webkit-scrollbar {
+    width: 8px; /* Lebar scrollbar */
+}
+
+#productList::-webkit-scrollbar-track {
+    background: #f1f1f1; /* Warna latar belakang track scrollbar */
+    border-radius: 4px;
+}
+
+#productList::-webkit-scrollbar-thumb {
+    background: #c1c1c1; /* Warna thumb (penggeser) scrollbar */
+    border-radius: 4px;
+}
+
+#productList::-webkit-scrollbar-thumb:hover {
+    background: #a8a8a8; /* Warna thumb saat di-hover */
+}

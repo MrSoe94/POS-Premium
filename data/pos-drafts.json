@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1761718263632",
+    "items": [
+      {
+        "productId": 1761704075285,
+        "name": "Example Product 1",
+        "price": 10000,
+        "qty": 2
+      }
+    ],
+    "timestamp": "2025-10-29T06:11:03.632Z"
+  }
+]

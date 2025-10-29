@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "minuman",
+    "description": "Soft drinks, juices, and water"
+  },
+  {
+    "id": 2,
+    "name": "makanan",
+    "description": "Chips, cookies, and candies"
+  },
+  {
+    "id": 1761717047683,
+    "name": "Sembako",
+    "description": ""
+  },
+  {
+    "id": 1761717056807,
+    "name": "Roti",
+    "description": ""
+  },
+  {
+    "id": 1761717063166,
+    "name": "Minyak",
+    "description": ""
+  }
+]

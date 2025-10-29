@@ -1,0 +1,404 @@
+[
+  {
+    "id": "TRX-20251022-1761109535391",
+    "timestamp": "2025-10-22T05:05:35.391Z",
+    "userId": 1,
+    "items": [
+      {
+        "productId": 1761109497053,
+        "name": "345435",
+        "price": 23423423,
+        "qty": 3,
+        "subtotal": 70270269
+      }
+    ],
+    "totalAmount": 70270269,
+    "paymentMethod": "qris",
+    "amountReceived": 70270269,
+    "change": 0
+  },
+  {
+    "id": "TRX-20251029-1761710332844",
+    "timestamp": "2025-10-29T03:58:52.844Z",
+    "userId": 1,
+    "items": [
+      {
+        "productId": 1761703201868,
+        "name": "Mineral Water 500ml kecil",
+        "price": 345345,
+        "qty": 2,
+        "subtotal": 690690
+      },
+      {
+        "productId": 1761703838276,
+        "name": "asdas",
+        "price": 10000,
+        "qty": 5,
+        "subtotal": 50000
+      },
+      {
+        "productId": 1761703838279,
+        "name": "Example Product 2",
+        "price": 25000,
+        "qty": 4,
+        "subtotal": 100000
+      }
+    ],
+    "totalAmount": 840690,
+    "paymentMethod": "cash",
+    "amountReceived": 4234423,
+    "change": 3393733
+  },
+  {
+    "id": "TRX-20251029-1761710859661",
+    "timestamp": "2025-10-29T04:07:39.661Z",
+    "userId": 1,
+    "items": [
+      {
+        "productId": 1761703201868,
+        "name": "Mineral Water 500ml kecil",
+        "price": 345345,
+        "qty": 10,
+        "subtotal": 3453450
+      }
+    ],
+    "totalAmount": 3453450,
+    "paymentMethod": "qris",
+    "amountReceived": 3453450,
+    "change": 0
+  },
+  {
+    "id": "TRX-20251029-1761712059686",
+    "timestamp": "2025-10-29T04:27:39.686Z",
+    "userId": 1,
+    "items": [
+      {
+        "productId": 1761703838279,
+        "name": "Example Product 2",
+        "price": 25000,
+        "qty": 1,
+        "subtotal": 25000
+      },
+      {
+        "productId": 1761703838276,
+        "name": "asdas",
+        "price": 10000,
+        "qty": 1,
+        "subtotal": 10000
+      },
+      {
+        "productId": 1761703201868,
+        "name": "Mineral Water 500ml kecil",
+        "price": 345345,
+        "qty": 1,
+        "subtotal": 345345
+      }
+    ],
+    "totalAmount": 380345,
+    "paymentMethod": "qris",
+    "amountReceived": 380345,
+    "change": 0
+  },
+  {
+    "id": "TRX-20251029-1761712070179",
+    "timestamp": "2025-10-29T04:27:50.179Z",
+    "userId": 1,
+    "items": [
+      {
+        "productId": 1761703201868,
+        "name": "Mineral Water 500ml kecil",
+        "price": 345345,
+        "qty": 7,
+        "subtotal": 2417415
+      }
+    ],
+    "totalAmount": 2417415,
+    "paymentMethod": "cash",
+    "amountReceived": 243324234,
+    "change": 240906819
+  },
+  {
+    "id": "TRX-20251029-1761712077976",
+    "timestamp": "2025-10-29T04:27:57.976Z",
+    "userId": 1,
+    "items": [
+      {
+        "productId": 1761703838276,
+        "name": "asdas",
+        "price": 10000,
+        "qty": 3,
+        "subtotal": 30000
+      },
+      {
+        "productId": 1761703838279,
+        "name": "Example Product 2",
+        "price": 25000,
+        "qty": 3,
+        "subtotal": 75000
+      }
+    ],
+    "totalAmount": 105000,
+    "paymentMethod": "qris",
+    "amountReceived": 105000,
+    "change": 0
+  },
+  {
+    "id": "TRX-20251029-1761712086912",
+    "timestamp": "2025-10-29T04:28:06.912Z",
+    "userId": 1,
+    "items": [
+      {
+        "productId": 1761703201868,
+        "name": "Mineral Water 500ml kecil",
+        "price": 345345,
+        "qty": 2,
+        "subtotal": 690690
+      },
+      {
+        "productId": 1761703838279,
+        "name": "Example Product 2",
+        "price": 25000,
+        "qty": 1,
+        "subtotal": 25000
+      },
+      {
+        "productId": 1761703838276,
+        "name": "asdas",
+        "price": 10000,
+        "qty": 2,
+        "subtotal": 20000
+      }
+    ],
+    "totalAmount": 735690,
+    "paymentMethod": "qris",
+    "amountReceived": 735690,
+    "change": 0
+  },
+  {
+    "id": "TRX-20251029-1761712097530",
+    "timestamp": "2025-10-29T04:28:17.530Z",
+    "userId": 1,
+    "items": [
+      {
+        "productId": 1761703201868,
+        "name": "Mineral Water 500ml kecil",
+        "price": 345345,
+        "qty": 3,
+        "subtotal": 1036035
+      },
+      {
+        "productId": 1761703838276,
+        "name": "asdas",
+        "price": 10000,
+        "qty": 5,
+        "subtotal": 50000
+      },
+      {
+        "productId": 1761703838279,
+        "name": "Example Product 2",
+        "price": 25000,
+        "qty": 3,
+        "subtotal": 75000
+      }
+    ],
+    "totalAmount": 1161035,
+    "paymentMethod": "qris",
+    "amountReceived": 1161035,
+    "change": 0
+  },
+  {
+    "id": "TRX-20251029-1761712121906",
+    "timestamp": "2025-10-29T04:28:41.906Z",
+    "userId": 1,
+    "items": [
+      {
+        "productId": 1761704039614,
+        "name": "Example Product 2",
+        "price": 25000,
+        "qty": 2,
+        "subtotal": 50000
+      },
+      {
+        "productId": 1761704039612,
+        "name": "Example Product 1",
+        "price": 10000,
+        "qty": 2,
+        "subtotal": 20000
+      },
+      {
+        "productId": 1761704056860,
+        "name": "Example Product 1",
+        "price": 10000,
+        "qty": 2,
+        "subtotal": 20000
+      },
+      {
+        "productId": 1761704061213,
+        "name": "Example Product 1",
+        "price": 10000,
+        "qty": 2,
+        "subtotal": 20000
+      },
+      {
+        "productId": 1761704056862,
+        "name": "Example Product 2",
+        "price": 25000,
+        "qty": 2,
+        "subtotal": 50000
+      }
+    ],
+    "totalAmount": 160000,
+    "paymentMethod": "qris",
+    "amountReceived": 160000,
+    "change": 0
+  },
+  {
+    "id": "TRX-20251029-1761712130368",
+    "timestamp": "2025-10-29T04:28:50.368Z",
+    "userId": 1,
+    "items": [
+      {
+        "productId": 1761703201868,
+        "name": "Mineral Water 500ml kecil",
+        "price": 345345,
+        "qty": 2,
+        "subtotal": 690690
+      },
+      {
+        "productId": 1761703838276,
+        "name": "asdas",
+        "price": 10000,
+        "qty": 3,
+        "subtotal": 30000
+      },
+      {
+        "productId": 1761703838279,
+        "name": "Example Product 2",
+        "price": 25000,
+        "qty": 2,
+        "subtotal": 50000
+      },
+      {
+        "productId": 1761704056860,
+        "name": "Example Product 1",
+        "price": 10000,
+        "qty": 2,
+        "subtotal": 20000
+      },
+      {
+        "productId": 1761704039614,
+        "name": "Example Product 2",
+        "price": 25000,
+        "qty": 2,
+        "subtotal": 50000
+      }
+    ],
+    "totalAmount": 840690,
+    "paymentMethod": "qris",
+    "amountReceived": 840690,
+    "change": 0
+  },
+  {
+    "id": "TRX-20251029-1761712137711",
+    "timestamp": "2025-10-29T04:28:57.711Z",
+    "userId": 1,
+    "items": [
+      {
+        "productId": 1761703201868,
+        "name": "Mineral Water 500ml kecil",
+        "price": 345345,
+        "qty": 2,
+        "subtotal": 690690
+      },
+      {
+        "productId": 1761703838276,
+        "name": "asdas",
+        "price": 10000,
+        "qty": 2,
+        "subtotal": 20000
+      },
+      {
+        "productId": 1761703838279,
+        "name": "Example Product 2",
+        "price": 25000,
+        "qty": 2,
+        "subtotal": 50000
+      }
+    ],
+    "totalAmount": 760690,
+    "paymentMethod": "qris",
+    "amountReceived": 760690,
+    "change": 0
+  },
+  {
+    "id": "TRX-20251029-1761713321043",
+    "timestamp": "2025-10-29T04:48:41.043Z",
+    "userId": 1,
+    "items": [
+      {
+        "productId": 1761703201868,
+        "name": "Mineral Water 500ml kecil",
+        "price": 345345,
+        "qty": 1,
+        "subtotal": 345345
+      }
+    ],
+    "totalAmount": 345345,
+    "paymentMethod": "qris",
+    "amountReceived": 345345,
+    "change": 0
+  },
+  {
+    "id": "TRX-20251029-1761713964775",
+    "timestamp": "2025-10-29T04:59:24.775Z",
+    "userId": 1,
+    "items": [
+      {
+        "productId": 1761703201868,
+        "name": "Mineral Water 500ml kecil",
+        "price": 345345,
+        "qty": 2,
+        "subtotal": 690690
+      },
+      {
+        "productId": 1761703838276,
+        "name": "asdas",
+        "price": 10000,
+        "qty": 4,
+        "subtotal": 40000
+      },
+      {
+        "productId": 1761703838279,
+        "name": "Example Product 2",
+        "price": 25000,
+        "qty": 2,
+        "subtotal": 50000
+      },
+      {
+        "productId": 1761704216792,
+        "name": "Example Product 1",
+        "price": 10000,
+        "qty": 2,
+        "subtotal": 20000
+      },
+      {
+        "productId": 1761704206255,
+        "name": "Example Product 1",
+        "price": 10000,
+        "qty": 2,
+        "subtotal": 20000
+      },
+      {
+        "productId": 1761704209808,
+        "name": "Example Product 1",
+        "price": 10000,
+        "qty": 2,
+        "subtotal": 20000
+      }
+    ],
+    "totalAmount": 840690,
+    "paymentMethod": "qris",
+    "amountReceived": 840690,
+    "change": 0
+  }
+]

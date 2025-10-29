@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "$2a$12$mBIw9oY00tIX5DseH5SBZOmDPRly98xVsTFVNUnaIVGTv/sS4y9x.",
+    "role": "admin",
+    "name": "Store Admin",
+    "status": "active",
+    "updatedAt": "2025-10-21T18:01:41.133Z"
+  },
+  {
+    "id": 2,
+    "username": "kasir",
+    "password": "$2b$10$V7K3UDdJlBRmZCCkpvbwO.wj0uiX3Oz8yCS8nXFFgDhlcruBVZeOy",
+    "role": "cashier",
+    "name": "John Cashier",
+    "status": "active",
+    "updatedAt": "2025-10-29T01:27:16.864Z"
+  }
+]
